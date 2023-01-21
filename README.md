@@ -2,7 +2,7 @@
 
 O script tem a finalidade de criar um servidor WEB, seguindo as definições abaixo.
 
-## Definições:
+## Definições do Script:
 - Atualizar o servidor;
 - Instalar o apache2;
 - Instalar o unzip;
